@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "Hello World!"
+    return "Idhi Thirgubatudarula Rule uh.."
 
 if __name__ == '__main__':
     # Binding to 0.0.0.0 ensures the cloud provider can route traffic to it
